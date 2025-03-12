@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Pawar 
 - 👀 I’m interested in learning new things on a daily basis and solving real world problems by gaining the required skills
-- 🌱 I’ve 2 years of professional experience as a Devops Engineer
+- 🌱 I’ve 2 years of professional experience as a Software Development Engineer
 - 💞️ I’m looking to collaborate on some live projects which actually does solve real world problems
 - 📫 How to reach me - Contact me through linkedin https://www.linkedin.com/in/sahilpawar17/
 
